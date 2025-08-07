@@ -83,7 +83,7 @@ color: #303030;
 }
 
 .listMarcer::before{
-    content:url(/imge/Vector.png);
+    content:url(project-first-it/imge/Vector.png);
 }
 
 .listNumber{
